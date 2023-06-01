@@ -1,14 +1,9 @@
 class cls {
 
-    static int x = 10;
-    cls(){
-        System.out.println("Nitin");
-    }
+    int x;
 
     public static void main(String[] args) {
-        int y = 10;
-        cls cc=new cls();
-
+        int y;
 
     }
 

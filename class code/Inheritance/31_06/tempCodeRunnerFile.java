@@ -1,0 +1,1 @@
+child obj2= new child();
