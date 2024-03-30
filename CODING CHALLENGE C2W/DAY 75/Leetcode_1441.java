@@ -17,6 +17,7 @@ class Solution {
             current++;
         }
 
-        return result;        
+        return result;  
+        Math.sqrt()      
     }
 }
